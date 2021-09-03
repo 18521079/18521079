@@ -1,4 +1,4 @@
-### Hi I'm Nguyen Thi Khanh Ly 👋
+### Hi, I'm Nguyen Thi Khanh Ly 👋
 
 - 🔭 I’m currently studying at UIT
 - 🌱 I’m currently learning Reactjs, React Native
