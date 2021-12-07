@@ -6,4 +6,3 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="CSS Logo" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="CSS Logo" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="CSS Logo" width="40" height="40"/>
